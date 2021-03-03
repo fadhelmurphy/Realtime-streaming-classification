@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Hello WebRTC </title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+  </head>
+  <body>
+    <!-- <div class="select">
+      <label for="audioSource">Audio source: </label><select id="audioSource"></select>
+    </div> -->
+  
+    <video id="cam" autoplay playsinline></video> 
+    <canvas id="imageContainer" width="150" height="150" style="display: none;"></canvas>
+    <div class="select">
+      <label for="videoSource">Pilih kamera: </label><select id="videoSource"></select>
+    </div>
+    <script src="/static/sketch.js"></script>
+ 
+    <div id="label"> </div>
+  </body>
+</html>
