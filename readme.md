@@ -1,5 +1,5 @@
 # Realtime-Classification-Web-RTC
-Modelnya masih belom akurat. belom sempet gue kerjain karena sibuk kerja + kuliah.
+Modelnya masih belom akurat.
 
 ## Gambarannya
 Jadi user bisa pake kamera depan atau belakang lalu setiap frame dikirim ke server dan server bakalan ngeproses klasifikasinya setelah itu hasil klasifikasi dikirim lagi ke user
